@@ -1,1 +1,1 @@
-if (top !== self) top.location.href = 'http://google.com';
+if (top !== self) top.location.href = 'https://harga.androiduniversal.com/';
